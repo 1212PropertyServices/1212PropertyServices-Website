@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="12:12 Property Services">
+  <rect width="64" height="64" rx="12" fill="#ffffff"/>
+  <path d="M10 53h44L48 39H17L10 53Z" fill="#64a942"/>
+  <path d="M21 25 32 8l11 17-11-3-11 3Z" fill="#1e58a0"/>
+  <path d="M11 44c8 8 22 10 42 2-18 3-31 1-38-7l-4 5Z" fill="#287294"/>
+  <path d="M10 49c8 5 20 6 35 1-15 2-26 0-32-6l-3 5Z" fill="#4d933e"/>
+  <text x="15" y="39" fill="#1d579c" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800">12</text>
+  <text x="31" y="39" fill="#6bac35" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800">:12</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-labelledby="logo-title logo-desc">
+  <title id="logo-title">12:12 Property Services logo</title>
+  <desc id="logo-desc">A blue and green triangle mark with sweeping lines around the 12:12 Property Services name.</desc>
+  <defs>
+    <linearGradient id="blueMark" x1="225" y1="67" x2="468" y2="317" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1e58a0"/>
+      <stop offset="1" stop-color="#2c7fbd"/>
+    </linearGradient>
+    <linearGradient id="greenMark" x1="54" y1="486" x2="713" y2="354" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#126446"/>
+      <stop offset=".52" stop-color="#5fae3f"/>
+      <stop offset="1" stop-color="#91bd43"/>
+    </linearGradient>
+    <linearGradient id="blueSweep" x1="101" y1="383" x2="665" y2="287" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f6f8d"/>
+      <stop offset=".64" stop-color="#2560a5"/>
+      <stop offset="1" stop-color="#184b91"/>
+    </linearGradient>
+    <linearGradient id="greenSweep" x1="42" y1="409" x2="416" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2d8141"/>
+      <stop offset="1" stop-color="#78b545"/>
+    </linearGradient>
+  </defs>
+
+  <polygon points="52 512 629 512 560 360 235 356" fill="url(#greenMark)"/>
+  <polygon points="251 222 377 42 494 220 376 199" fill="url(#blueMark)"/>
+  <polygon points="251 222 377 42 339 210" fill="#184f93" opacity=".26"/>
+  <polygon points="376 199 494 220 423 113" fill="#0f3f83" opacity=".2"/>
+  <polygon points="629 512 708 512 609 359" fill="#71aa3d"/>
+  <polygon points="52 512 168 512 118 408" fill="#0e553c" opacity=".45"/>
+
+  <path d="M432 224c142-18 236 14 244 74 8 58-63 117-177 152 106-43 166-95 155-139-12-50-98-70-222-52Z" fill="#1a5197"/>
+  <path d="M110 353c-75 78-64 142 27 173 65 22 177 11 310-31-128 29-236 31-301 3-69-29-78-80-36-145Z" fill="url(#greenSweep)"/>
+  <path d="M121 326c-49 70-32 121 51 153 80 31 209 29 359-9-152 22-275 12-346-25-55-29-76-68-64-119Z" fill="url(#blueSweep)"/>
+
+  <text x="182" y="340" fill="#1d579c" font-family="Arial, Helvetica, sans-serif" font-size="140" font-weight="800">12</text>
+  <text x="372" y="340" fill="#6bac35" font-family="Arial, Helvetica, sans-serif" font-size="140" font-weight="800">:12</text>
+  <text x="174" y="410" fill="#252b2c" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" letter-spacing="4">PROPERTY SERVICES</text>
+</svg>
